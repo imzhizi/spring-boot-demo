@@ -1,0 +1,11 @@
+*.iml
+*.class
+*.DS_Store
+
+*.db
+
+
+
+.idea/
+target/
+transaction-logs/
